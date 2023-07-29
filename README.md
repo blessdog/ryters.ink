@@ -1,4 +1,4 @@
-# ryters.ink
+# _ryters.ink_
 Here is a concept breakdown:
 
 **1. Website Design**
@@ -26,7 +26,7 @@ Here is a concept breakdown:
 * **Daily Challenges**: Prompts or themes for users who want an extra challenge. Successful completion gives bonus points.
 
 ----
-
+## _On Chain?_ 
 * 1. Crypto Rewards:
 
 After every completed 250-word block, in addition to receiving an interesting quote, users could be rewarded with a small amount of crypto tokens. These tokens can be a part of an established cryptocurrency or you could create a native token specific to the platform (e.g., WordTokens).
@@ -51,7 +51,38 @@ Host regular competitions with significant crypto rewards. The leaderboard can a
 
 * **Save and Auto-Save**: Users can save their work manually or rely on auto-save that triggers every few seconds.
 * **Sync across Devices**: Allows users to continue their writing sessions across different devices.
-* **Community**: A forum where users can share their writing, get feedback, discuss topics, and encourage each other.
-* **Writing Resources**: Provides users with writing prompts, tips, and lessons to improve their writing skills.
+---
+# Tech Stack
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)![mongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)![etherum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)![jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
+
+Front-end:
+
+**React.js**: A popular JavaScript library for building user interfaces. It's maintained by Facebook and has a large community, making it a reliable choice.
+Back-end:
+
+**Node.js**: A JavaScript runtime built on Chrome's V8 JavaScript engine. It's great for building fast and scalable network applications.
+Express.js: A minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
+Database:
+
+**MongoDB**: A source-available cross-platform document-oriented database program. It uses JSON-like documents with optional schemas and is known for being flexible and easy to scale.
+Mongoose: Elegant mongodb object modeling for node.js, providing a straightforward, schema-based solution to model your application data.
+Blockchain/Crypto Integration:
+
+**Ethereum Smart Contracts**: Smart contracts for the crypto transactions can be built on the Ethereum platform using Solidity language. This will handle the token rewards, staking, and NFT features.
+Web3.js/ethers.js: These are Ethereum JavaScript APIs which connect JavaScript and Ethereum blockchain. They can be used to interact with smart contracts and conduct transactions.
+Authentication:
+
+**Passport.js**: A middleware for Node.js that allows for a variety of authentication strategies, including OAuth, OpenID, and others.
+Hosting/Cloud:
+
+**AWS (Amazon Web Services)**: Offers reliable, scalable, and inexpensive cloud computing services.
+Docker: An open-source platform used for automating the deployment, scaling, and management of applications.
+Version Control:
+
+**Jest**: A JavaScript testing framework with a focus on simplicity.
+
+---
 
 Through ryters.ink, users not only develop a daily writing habit but also engage in a supportive, motivated community of like-minded writers.
+* **Community**: A forum where users can share their writing, get feedback, discuss topics, and encourage each other.
+* **Writing Resources**: Provides users with writing prompts, tips, and lessons to improve their writing skills.
