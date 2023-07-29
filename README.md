@@ -1,9 +1,9 @@
-# write1000
+# ryters.ink
 Here is a concept breakdown:
 
 **1. Website Design**
 
-* **Homepage**: It introduces the concept of WordForge, its benefits, and the call-to-action button to 'Start Writing Now'.
+* **Homepage**: It introduces the concept of ryters.ink, its benefits, and the call-to-action button to 'Start Writing Now'.
 * **Dashboard**: Displays user's daily progress, streaks, milestones, achievements, leaderboards, and notifications. 
 * **Writing Space**: Clean, minimalist design offering a distraction-free writing environment. It includes a word counter, progress bar, and save button.
 
@@ -25,6 +25,28 @@ Here is a concept breakdown:
 * **Interesting Quotes**: Served as a reward after each 250-word block. These quotes are not only interesting but also related to writing, creativity, and perseverance.
 * **Daily Challenges**: Prompts or themes for users who want an extra challenge. Successful completion gives bonus points.
 
+----
+
+* 1. Crypto Rewards:
+
+After every completed 250-word block, in addition to receiving an interesting quote, users could be rewarded with a small amount of crypto tokens. These tokens can be a part of an established cryptocurrency or you could create a native token specific to the platform (e.g., WordTokens).
+
+* 2. Staking:
+
+For more committed users, they could "stake" a certain amount of their tokens at the beginning of a writing streak. If they maintain the streak, they receive their staked tokens back along with an additional reward. If they break the streak, they lose their staked tokens.
+
+* 3. NFT Badges:
+
+Milestones and achievements can be turned into Non-Fungible Tokens (NFTs). These NFTs could serve as proof of achievement and can be traded, sold, or kept as collectibles within the community. This will also add an element of rarity and exclusivity to certain achievements, making them more coveted and motivating users to write more.
+
+* 4. Marketplace:
+
+Create a marketplace where users can spend their earned crypto tokens. This could include access to premium resources, personalized feedback, advanced writing tools, or even physical goods like branded merchandise.
+
+* 5. Leaderboard & Competitions:
+
+Host regular competitions with significant crypto rewards. The leaderboard can also be tied to crypto rewards, with the top writers of the week/month receiving additional tokens.
+
 **4. Additional Features**
 
 * **Save and Auto-Save**: Users can save their work manually or rely on auto-save that triggers every few seconds.
@@ -32,4 +54,4 @@ Here is a concept breakdown:
 * **Community**: A forum where users can share their writing, get feedback, discuss topics, and encourage each other.
 * **Writing Resources**: Provides users with writing prompts, tips, and lessons to improve their writing skills.
 
-Through WordForge, users not only develop a daily writing habit but also engage in a supportive, motivated community of like-minded writers.
+Through ryters.ink, users not only develop a daily writing habit but also engage in a supportive, motivated community of like-minded writers.
