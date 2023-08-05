@@ -1,4 +1,7 @@
 # _ryters.ink_
+<img src="images/computer_cat.jpeg" alt="Cover Image"/>
+
+ 
 Here is a concept breakdown:
 
 **1. Website Design**
